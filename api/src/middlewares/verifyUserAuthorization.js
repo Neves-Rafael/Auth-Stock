@@ -1,4 +1,4 @@
-import AppError from "../utils/AppError";
+const AppError = require("../utils/AppError");
 
 function verifyUserAuthorization(roleToVerify) {
   return (request, response, next) => {
@@ -11,3 +11,5 @@ function verifyUserAuthorization(roleToVerify) {
     return next();
   };
 }
+
+module.exports = verifyUserAuthorization;
