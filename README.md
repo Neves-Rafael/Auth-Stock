@@ -3,7 +3,7 @@
 ![image](https://github.com/Neves-Rafael/Auth-Stock/assets/136202919/dc588e9d-7c3c-428f-b17d-9659296961be)
 
 
-<p align="center">Projeto utilizado para estudos de autenticação e autorização usando os cookies como auternativa ao localStorage , é um projeto simples que exibe determinados items de acordo com o tipo de permissão, dentre eles: Consumidor, Administrador e Vendedor.</p>
+<p align="center">Projeto utilizado para estudos de autenticação e autorização usando os cookies como alternativa ao localStorage , é um projeto simples que exibe determinados items de acordo com o tipo de permissão, dentre eles: Consumidor, Administrador e Vendedor.</p>
 <br/>
 <p align="center">No Front-End foi usado o React e no Back-End foi usado o Node.js</p>
 <br/>
