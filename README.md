@@ -13,7 +13,7 @@
 
 
 <h3 align="center">⭐ Tela principal</h3>
-<p align="center">É nesta etapa que de acordo com o seu tipo de permissão a exibição do items na tela é alterado, de acordo com a permissão de cada conta. Na imagem estou usando uma conta de administrador que exibe todos os itens</p>
+<p align="center">É nesta etapa que de acordo com o seu tipo de permissão a exibição do items na tela é alterado. Na imagem por exemplo estou usando uma conta de administrador que exibe todos os itens</p>
 <br/>
 <br/>
 <p align="center">
